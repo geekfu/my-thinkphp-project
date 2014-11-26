@@ -1,4 +1,4 @@
 my-thinkphp-project
 ===================
 
-create a test repo
+What kind of project am I going to create?
